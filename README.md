@@ -13,3 +13,6 @@ This repository contains data analysis and visualization projects in python.
 
 
 - **[Seaborn Basics](https://github.com/pb111/Data-Analysis-and-Visualization-with-Python/blob/master/Seaborn%20basics.ipynb)**
+
+
+- **[Plotly Basics](https://github.com/pb111/Data-Analysis-and-Visualization-with-Python/blob/master/Plotly%20basics.ipynb)**
